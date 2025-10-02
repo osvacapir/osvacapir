@@ -67,7 +67,7 @@ Sou Osvaldo Capir, Engenheiro Informatico. Actuo como Desenvolvedor de Software 
     <img 
         alt="Public Repositories" 
         title="Repositórios Públicos" 
-        src="https://img.shields.io/github/public-repos/osvacapir?style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos"
+        src="https://img.shields.io/badge/Public%20Repos-1-blue?style=for-the-badge&logo=github&logoColor=white"
     />
     <img 
         alt="GitHub Contributions" 

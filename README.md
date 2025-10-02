@@ -5,14 +5,14 @@
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://img.shields.io/badge/Estrelas-0-yellow?style=for-the-badge&logo=star&logoColor=white"
+            src="https://img.shields.io/github/stars/osvacapir?style=for-the-badge&logo=star&logoColor=white"
         />
     </a>
     <a href="https://github.com/osvacapir?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://img.shields.io/badge/Seguidores-0-blue?style=for-the-badge&logo=github&logoColor=white"
+            src="https://img.shields.io/github/followers/osvacapir?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/osvaldo-adriano-capir-441299120/">
@@ -51,14 +51,14 @@ Sou Osvaldo Capir, Engenheiro Informatico. Actuo como Desenvolvedor de Software 
 
 <p align="left">
     <img 
-        alt="Private Repositories" 
-        title="Repositórios Privados" 
-        src="https://img.shields.io/badge/Private%20Repos-5%2B-blue?style=for-the-badge&logo=github&logoColor=white"
+        alt="Public Repositories" 
+        title="Repositórios Públicos" 
+        src="https://img.shields.io/github/public-repos/osvacapir?style=for-the-badge&logo=github&logoColor=white"
     />
     <img 
-        alt="Organizations" 
-        title="Organizações" 
-        src="https://img.shields.io/badge/Organizations-1-green?style=for-the-badge&logo=github&logoColor=white"
+        alt="Total Commits" 
+        title="Total de Commits" 
+        src="https://img.shields.io/github/commit-activity/y/osvacapir?style=for-the-badge&logo=github&logoColor=white"
     />
     <img 
         alt="Experience" 
@@ -66,14 +66,14 @@ Sou Osvaldo Capir, Engenheiro Informatico. Actuo como Desenvolvedor de Software 
         src="https://img.shields.io/badge/Experience-10%2B%20years-orange?style=for-the-badge&logo=code&logoColor=white"
     />
     <img 
-        alt="Public Repositories" 
-        title="Repositórios Públicos" 
-        src="https://img.shields.io/badge/Public%20Repos-3-blue?style=for-the-badge&logo=github&logoColor=white"
+        alt="GitHub Contributions" 
+        title="Contribuições GitHub" 
+        src="https://img.shields.io/github/contributors/osvacapir?style=for-the-badge&logo=github&logoColor=white"
     />
     <img 
-        alt="GitHub Contributions" 
-        title="Contribuições GitHub (incluindo privadas)" 
-        src="https://img.shields.io/badge/Contributions-Ativo-green?style=for-the-badge&logo=github&logoColor=white"
+        alt="Profile Views" 
+        title="Visualizações do Perfil" 
+        src="https://img.shields.io/github/watchers/osvacapir?style=for-the-badge&logo=github&logoColor=white"
     />
     <img 
         alt="Projects" 
@@ -300,14 +300,30 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=osvacapir&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=osvacapir&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0D1117" 
   />
 
 <img 
 align="left" 
 alt="GitHub Stats" 
 height="200" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvacapir&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvacapir&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=0D1117" 
 />
 
+</p>
+
+<br clear="both"/>
+
+<p align="center">
+  <img 
+    alt="GitHub Streak" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=osvacapir&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=5F67FF&fire=5F67FF&currStreakNum=5F67FF&sideNums=5F67FF&currStreakLabel=5F67FF&sideLabels=5F67FF&dates=5F67FF" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    alt="GitHub Activity Graph" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=osvacapir&theme=tokyo-night&hide_border=true&area=true" 
+  />
 </p>

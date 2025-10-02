@@ -1,35 +1,18 @@
 # 👨‍💻 Osvaldo Adriano Capir
 
-**`Desenvolvedor & Data Analystics`**
-
-Sou Osvaldo Capir, Engenheiro Informatico. Actuo como Desenvolvedor de Software e por muito fui professor universitário da mesma área do Saber. Atualmente resido em Leiria, Portugal, e estou disponível para trabalho remoto e consultoria tecnológica.
-
-**Formação:**
-
-- Mestrando em Ciência de Dados
-- Mestre em Desenvolvimento de Aplicativos para Dispositivos Móveis
-- Licenciado em Engenharia Informática
-
-
-**Principais Projetos Corporativos & Privados:**
-
-- **VOSIKOLA** - Sistema de gestão escolar completo, multitenancy com versões Web e Mobile
-- **ISPREILUHUNA** - Instituição de ensino superior com sistema digital próprio, desenvolvido para garantir eficiência na gestão pedagógica
-- **OMILU ERP** - Sistema de Gestão Comercial de Facturação e Serviços + RH
-
 <p align="left">
     <a href="https://github.com/osvacapir?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/osvacapir?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://img.shields.io/badge/Estrelas-0-yellow?style=for-the-badge&logo=star&logoColor=white"
         />
     </a>
     <a href="https://github.com/osvacapir?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/osvacapir?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/badge/Seguidores-0-blue?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/osvaldo-adriano-capir-441299120/">
@@ -47,6 +30,24 @@ Sou Osvaldo Capir, Engenheiro Informatico. Actuo como Desenvolvedor de Software 
         />
     </a>
 </p>
+
+**`Desenvolvedor & Data Analystics`**
+
+Sou Osvaldo Capir, Engenheiro Informatico. Actuo como Desenvolvedor de Software e por muito fui professor universitário da mesma área do Saber. Atualmente resido em Leiria, Portugal, e estou disponível para trabalho remoto e consultoria tecnológica.
+
+**Formação:**
+
+- Mestrando em Ciência de Dados
+- Mestre em Desenvolvimento de Aplicativos para Dispositivos Móveis
+- Licenciado em Engenharia Informática
+
+
+**Principais Projetos Corporativos & Privados:**
+
+- **VOSIKOLA** - Sistema de gestão escolar completo, multitenancy com versões Web e Mobile
+- **ISPREILUHUNA** - Instituição de ensino superior com sistema digital próprio, desenvolvido para garantir eficiência na gestão pedagógica
+- **OMILU ERP** - Sistema de Gestão Comercial de Facturação e Serviços + RH
+
 
 <p align="left">
     <img 
@@ -67,12 +68,12 @@ Sou Osvaldo Capir, Engenheiro Informatico. Actuo como Desenvolvedor de Software 
     <img 
         alt="Public Repositories" 
         title="Repositórios Públicos" 
-        src="https://img.shields.io/badge/Public%20Repos-1-blue?style=for-the-badge&logo=github&logoColor=white"
+        src="https://img.shields.io/badge/Public%20Repos-3-blue?style=for-the-badge&logo=github&logoColor=white"
     />
     <img 
         alt="GitHub Contributions" 
         title="Contribuições GitHub (incluindo privadas)" 
-        src="https://img.shields.io/badge/Contributions-59%2B-yellow?style=for-the-badge&logo=github&logoColor=white"
+        src="https://img.shields.io/badge/Contributions-Ativo-green?style=for-the-badge&logo=github&logoColor=white"
     />
     <img 
         alt="Projects" 

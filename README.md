@@ -2,7 +2,7 @@
 
 **`Desenvolvedor & Data Analystics`**
 
-Sou Osvaldo Capir, Engenheiro. Actuo como Desenvolvedor de Software e por muito fui professor universitário da mesma área do Saber. Atualmente resido em Leiria, Portugal, e estou disponível para trabalho remoto e consultoria tecnológica.
+Sou Osvaldo Capir, Engenheiro Informatico. Actuo como Desenvolvedor de Software e por muito fui professor universitário da mesma área do Saber. Atualmente resido em Leiria, Portugal, e estou disponível para trabalho remoto e consultoria tecnológica.
 
 **Formação:**
 
@@ -68,6 +68,11 @@ Sou Osvaldo Capir, Engenheiro. Actuo como Desenvolvedor de Software e por muito 
         alt="Public Repositories" 
         title="Repositórios Públicos" 
         src="https://img.shields.io/badge/Public%20Repos-Dynamic-green?style=for-the-badge&logo=github&logoColor=white"
+    />
+    <img 
+        alt="GitHub Contributions" 
+        title="Contribuições GitHub (incluindo privadas)" 
+        src="https://img.shields.io/badge/Contributions-59%2B-yellow?style=for-the-badge&logo=github&logoColor=white"
     />
     <img 
         alt="Projects" 
@@ -253,11 +258,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 <br/>
 <br/>
 
-<br/>
-
-<br/>
-
-<br/>
 
 <br/>
 
@@ -277,7 +277,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 **Informações de Contacto:**
 
 - 📧 **Email:** osvacapir@gmail.com
-- 📱 **WhatsApp:** +244 924 488 312
+- 📱 **WhatsApp:** [+351 382 871 56](https://wa.me/35138287156)
 - 📍 **Localização:** Leiria, Portugal
 - 💼 **LinkedIn:** [osvaldo-adriano-capir-441299120](https://www.linkedin.com/in/osvaldo-adriano-capir-441299120/)
 - 🐙 **GitHub:** [osvacapir](https://github.com/osvacapir)

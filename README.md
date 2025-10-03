@@ -51,14 +51,14 @@ Sou Osvaldo Capir, Engenheiro Informatico. Actuo como Desenvolvedor de Software 
 
 <p align="left">
     <img 
-        alt="Public Repositories" 
-        title="Repositórios Públicos" 
-        src="https://img.shields.io/github/public-repos/osvacapir?style=for-the-badge&logo=github&logoColor=white"
+        alt="Private Repositories" 
+        title="Repositórios Privados" 
+        src="https://img.shields.io/badge/Private%20Repos-5%2B-blue?style=for-the-badge&logo=github&logoColor=white"
     />
     <img 
-        alt="Total Commits" 
-        title="Total de Commits" 
-        src="https://img.shields.io/github/commit-activity/y/osvacapir?style=for-the-badge&logo=github&logoColor=white"
+        alt="Organizations" 
+        title="Organizações" 
+        src="https://img.shields.io/badge/Organizations-1-green?style=for-the-badge&logo=github&logoColor=white"
     />
     <img 
         alt="Experience" 
@@ -66,14 +66,14 @@ Sou Osvaldo Capir, Engenheiro Informatico. Actuo como Desenvolvedor de Software 
         src="https://img.shields.io/badge/Experience-10%2B%20years-orange?style=for-the-badge&logo=code&logoColor=white"
     />
     <img 
-        alt="GitHub Contributions" 
-        title="Contribuições GitHub" 
-        src="https://img.shields.io/github/contributors/osvacapir?style=for-the-badge&logo=github&logoColor=white"
+        alt="Public Repositories" 
+        title="Repositórios Públicos" 
+        src="https://img.shields.io/badge/Public%20Repos-4-blue?style=for-the-badge&logo=github&logoColor=white"
     />
     <img 
-        alt="Profile Views" 
-        title="Visualizações do Perfil" 
-        src="https://img.shields.io/github/watchers/osvacapir?style=for-the-badge&logo=github&logoColor=white"
+        alt="GitHub Contributions" 
+        title="Contribuições GitHub (incluindo privadas)" 
+        src="https://img.shields.io/badge/Contributions-Ativo-green?style=for-the-badge&logo=github&logoColor=white"
     />
     <img 
         alt="Projects" 
@@ -221,14 +221,6 @@ width="30px"
 style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" 
 />
-<img 
-align="left" 
-alt="iOS" 
-title="iOS"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ios/ios-original.svg" 
-/>
 
 <!-- DevOps & Automation -->
 <img 
@@ -239,14 +231,7 @@ width="30px"
 style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
-<img 
-align="left" 
-alt="n8n" 
-title="n8n - Automação de Workflows"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://raw.githubusercontent.com/n8n-io/n8n/master/packages/design-system/src/assets/images/n8n-icon.svg" 
-/>
+
 <img 
 align="left" 
 alt="Git" 

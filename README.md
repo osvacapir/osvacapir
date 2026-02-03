@@ -22,29 +22,40 @@ Sou Osvaldo Capir, Engenheiro Informático. Desenvolvedor de Software e ex-profe
 ### Linguagens e tecnologias
 
 <p align="left">
-<img align="left" alt="HTML" title="HTML" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<!-- Linguagens de programação -->
+<img align="left" alt="C#" title="C#" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="PHP" title="PHP" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="Java" title="Java" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Kotlin" title="Kotlin" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+<img align="left" alt="Python" title="Python" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" title="React" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<!-- Backend & frameworks -->
+<img align="left" alt=".NET" title=".NET" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="Laravel" title="Laravel" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 <img align="left" alt="Blazor" title="Blazor" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
-<img align="left" alt="AlpineJS" title="AlpineJS" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" />
+<img align="left" alt="React" title="React" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Vue.js" title="Vue.js" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="Alpine.js" title="Alpine.js" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" />
+<!-- Frontend -->
+<img align="left" alt="HTML5" title="HTML5" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" title="CSS3" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="Tailwind" title="Tailwind CSS" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Bootstrap" title="Bootstrap" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Tailwind" title="Tailwind" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="SASS" title="SASS" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 <img align="left" alt="jQuery" title="jQuery" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
-<img align="left" alt="PHP" title="PHP" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Laravel" title="Laravel" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img align="left" alt="Python" title="Python" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Java" title="Java" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="C#" title="C#" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt=".NET" title=".NET" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<!-- Base de dados -->
 <img align="left" alt="MySQL" title="MySQL" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="SQL Server" title="SQL Server" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" alt="Redis" title="Redis" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-<img align="left" alt="Android" title="Android" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+<!-- Ferramentas & DevOps -->
+<img align="left" alt="Vite" title="Vite" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
 <img align="left" alt="Docker" title="Docker" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="Git" title="Git" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<!-- Mobile, BI & Cloud -->
+<img align="left" alt="Android" title="Android" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+<img align="left" alt="Power BI" title="Power BI" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" />
+<img align="left" alt="Azure" title="Microsoft Azure" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 </p>
 
 <br clear="both"/>
@@ -109,12 +120,12 @@ Engenheiro Informático, Desenvolvedor de Software e ex-professor universitário
 - **Gestão Universitária** — SaaS multi-tenant Laravel, Alpine.js, Tailwind, Docker · [detalhes](docs/PORTFOLIO_Gestão%20Universitária.md)
 - **Portal TIC-DASH (BI)** — Power BI, PHP, MySQL · [detalhes](docs/PORTFOLIO-TIC-DASH.md)
 
-**Repositórios (públicos + privados)**
+**Estatística de repositórios (públicos + privados)**
 
 <p align="left">
-    <img alt="Repositórios totais" title="Inclui públicos e privados" src="https://img.shields.io/badge/Repositórios-9%2B-blue?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Total de repositórios" title="Total: públicos + privados" src="https://img.shields.io/badge/Total-30-blue?style=for-the-badge&logo=github&logoColor=white" />
     <img alt="Públicos" title="Repositórios públicos" src="https://img.shields.io/badge/Públicos-4-blue?style=for-the-badge&logo=github&logoColor=white" />
-    <img alt="Privados" title="Repositórios privados" src="https://img.shields.io/badge/Privados-5%2B-blue?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Privados" title="Repositórios privados (incl. organizações)" src="https://img.shields.io/badge/Privados-26-blue?style=for-the-badge&logo=github&logoColor=white" />
     <img alt="Experiência" title="Anos de experiência" src="https://img.shields.io/badge/Experiência-10%2B%20anos-orange?style=for-the-badge&logo=code&logoColor=white" />
 </p>
 
@@ -129,7 +140,7 @@ Engenheiro Informático, Desenvolvedor de Software e ex-professor universitário
 
 ### 📊 Estatísticas
 
-*Inclui atividade em repositórios públicos e privados.*
+**Repositórios:** Os badges acima refletem o total real (públicos + privados). Os gráficos abaixo usam a API pública do GitHub e mostram apenas atividade em repositórios **públicos**. Para incluir privados nos gráficos é necessário [desdobrar uma instância própria](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) do GitHub Readme Stats com um token de acesso.
 
 <p>
   <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=osvacapir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=0D1117" />

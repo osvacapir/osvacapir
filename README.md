@@ -4,7 +4,7 @@
 <tr>
 <td width="280">
 
-<img src="assets/photo.png" alt="Osvaldo Capir" width="220" style="border-radius: 12px;" />
+<img src="assets/WhatsApp%20Image%202026-01-18%20at%2013.38.53.jpeg" alt="Osvaldo Capir" width="220" style="border-radius: 12px;" />
 
 </td>
 <td>

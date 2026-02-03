@@ -41,47 +41,6 @@ Sou Osvaldo Capir, Engenheiro Informatico. Actuo como Desenvolvedor de Software 
 - Mestre em Desenvolvimento de Aplicativos para Dispositivos Móveis
 - Licenciado em Engenharia Informática
 
-
-**Principais Projetos Corporativos & Privados:**
-
-- **VOSIKOLA** - Sistema de gestão escolar completo, multitenancy com versões Web e Mobile
-- **ISPREILUHUNA** - Instituição de ensino superior com sistema digital próprio, desenvolvido para garantir eficiência na gestão pedagógica
-- **OMILU ERP** - Sistema de Gestão Comercial de Facturação e Serviços + RH
-
-
-<p align="left">
-    <img 
-        alt="Private Repositories" 
-        title="Repositórios Privados" 
-        src="https://img.shields.io/badge/Private%20Repos-5%2B-blue?style=for-the-badge&logo=github&logoColor=white"
-    />
-    <img 
-        alt="Organizations" 
-        title="Organizações" 
-        src="https://img.shields.io/badge/Organizations-1-green?style=for-the-badge&logo=github&logoColor=white"
-    />
-    <img 
-        alt="Experience" 
-        title="Experiência Profissional" 
-        src="https://img.shields.io/badge/Experience-10%2B%20years-orange?style=for-the-badge&logo=code&logoColor=white"
-    />
-    <img 
-        alt="Public Repositories" 
-        title="Repositórios Públicos" 
-        src="https://img.shields.io/badge/Public%20Repos-4-blue?style=for-the-badge&logo=github&logoColor=white"
-    />
-    <img 
-        alt="GitHub Contributions" 
-        title="Contribuições GitHub (incluindo privadas)" 
-        src="https://img.shields.io/badge/Contributions-Ativo-green?style=for-the-badge&logo=github&logoColor=white"
-    />
-    <img 
-        alt="Projects" 
-        title="Projetos Desenvolvidos" 
-        src="https://img.shields.io/badge/Projects-Multiple-purple?style=for-the-badge&logo=rocket&logoColor=white"
-    />
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -126,6 +85,14 @@ title="React"
 width="30px" 
 style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+align="left" 
+alt="Blazor" 
+title="Blazor"
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" 
 />
 <img 
 align="left" 
@@ -201,6 +168,22 @@ width="30px"
 style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+<img 
+align="left" 
+alt="C#" 
+title="C#"
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+align="left" 
+alt=".NET" 
+title=".NET"
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
+/>
 
 <!-- Database -->
 <img 
@@ -210,6 +193,22 @@ title="MySQL"
 width="30px" 
 style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+align="left" 
+alt="SQL Server" 
+title="SQL Server"
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
+/>
+<img 
+align="left" 
+alt="Redis" 
+title="Redis"
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" 
 />
 
 <!-- Mobile Development -->
@@ -250,6 +249,50 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 ---
 
+**Principais Projetos Corporativos & Privados:**
+
+- **VOSIKOLA** - Sistema de gestão escolar completo, multitenancy com versões Web e Mobile
+- **ISPREILUHUNA** - Instituição de ensino superior com sistema digital próprio, desenvolvido para garantir eficiência na gestão pedagógica
+- **OMILU ERP** - Sistema de Gestão Comercial de Facturação e Serviços + RH
+- **CRM Multiplataforma** - Aplicação híbrida .NET MAUI + Blazor para Android, iOS, Windows e Mac Catalyst - [Ver detalhes](PORTFOLIO_PROJETO_CRM.md)
+- **CRM API REST** - Backend Laravel 12 com integração ERP, autenticação avançada e documentação OpenAPI - [Ver detalhes](PORTFOLIO_PROJETO_CRM_API.md)
+
+
+<p align="left">
+    <img 
+        alt="Private Repositories" 
+        title="Repositórios Privados" 
+        src="https://img.shields.io/badge/Private%20Repos-5%2B-blue?style=for-the-badge&logo=github&logoColor=white"
+    />
+    <img 
+        alt="Organizations" 
+        title="Organizações" 
+        src="https://img.shields.io/badge/Organizations-1-green?style=for-the-badge&logo=github&logoColor=white"
+    />
+    <img 
+        alt="Experience" 
+        title="Experiência Profissional" 
+        src="https://img.shields.io/badge/Experience-10%2B%20years-orange?style=for-the-badge&logo=code&logoColor=white"
+    />
+    <img 
+        alt="Public Repositories" 
+        title="Repositórios Públicos" 
+        src="https://img.shields.io/badge/Public%20Repos-4-blue?style=for-the-badge&logo=github&logoColor=white"
+    />
+    <img 
+        alt="GitHub Contributions" 
+        title="Contribuições GitHub (incluindo privadas)" 
+        src="https://img.shields.io/badge/Contributions-Ativo-green?style=for-the-badge&logo=github&logoColor=white"
+    />
+    <img 
+        alt="Projects" 
+        title="Projetos Desenvolvidos" 
+        src="https://img.shields.io/badge/Projects-Multiple-purple?style=for-the-badge&logo=rocket&logoColor=white"
+    />
+</p>
+
+---
+
 ### 🏢 Experiência Corporativa
 
 **Projetos Organizacionais:**
@@ -257,6 +300,105 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 - 🎓 **Sistemas Educacionais** - Desenvolvimento de plataformas de gestão escolar
 - 🏛️ **Instituições de Ensino Superior** - Soluções para Instituto Superior Politécnico
 - 💶 **Empresas Comerciais** - Sistemas ERP de Facturação e Serviços
+- 📱 **CRM Multiplataforma** - Aplicações móveis e desktop com .NET MAUI e Blazor
+- 🔌 **APIs REST** - Backend Laravel com integração ERP e autenticação avançada
+
+---
+
+### 🚀 Projetos em Destaque
+
+#### 📱 CRM Multiplataforma - Aplicação Híbrida
+
+<p align="left">
+    <img 
+        alt=".NET MAUI" 
+        src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white"
+    />
+    <img 
+        alt="Blazor" 
+        src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white"
+    />
+    <img 
+        alt="C#" 
+        src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"
+    />
+    <img 
+        alt="Android" 
+        src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"
+    />
+    <img 
+        alt="iOS" 
+        src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"
+    />
+    <img 
+        alt="Windows" 
+        src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"
+    />
+</p>
+
+Aplicação **híbrida** de gestão (CRM) desenvolvida em **.NET MAUI** com **Blazor**, destinada a equipas de campo e escritório. Funciona em **Android**, **iOS**, **Windows** e **Mac Catalyst** a partir de um único código-base.
+
+**📊 Dimensão:**
+- ~111 ficheiros C#
+- ~66 componentes Blazor
+- ~40 000+ linhas de código
+- 50+ páginas/ecrãs principais
+- 22 pares de serviços/interfaces
+
+**🔧 Stack Principal:**
+- .NET 9, .NET MAUI, Blazor Hybrid
+- Radzen Blazor, Bootstrap
+- Microsoft Graph (email), Geolocalização
+- ZXing (QR/Barcode), Laravel Sanctum
+
+**📄 [Ver Documentação Completa →](PORTFOLIO_PROJETO_CRM.md)**
+
+---
+
+#### 🔌 CRM API REST - Backend Laravel
+
+<p align="left">
+    <img 
+        alt="Laravel" 
+        src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"
+    />
+    <img 
+        alt="PHP" 
+        src="https://img.shields.io/badge/PHP-8.4-777BB4?style=flat-square&logo=php&logoColor=white"
+    />
+    <img 
+        alt="SQL Server" 
+        src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"
+    />
+    <img 
+        alt="Redis" 
+        src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"
+    />
+    <img 
+        alt="Docker" 
+        src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"
+    />
+</p>
+
+API REST para suporte a aplicações de gestão (CRM). Arquitetura versionada (v1), stateless, com autenticação por tokens e integração com ERP legado.
+
+**📊 Dimensão:**
+- ~125 ficheiros PHP de aplicação
+- ~170 definições de rotas
+- Centenas de entidades de domínio mapeadas
+- ~30 migrações Laravel
+- 40+ documentos técnicos
+
+**🔧 Stack Principal:**
+- Laravel 12, PHP 8.4
+- SQL Server (integração ERP PHC)
+- Redis (cache e filas)
+- Docker & Docker Compose
+- Laravel Sanctum, 2FA, OpenAPI/Swagger
+
+**📄 [Ver Documentação Completa →](PORTFOLIO_PROJETO_CRM_API.md)**
+
+---
 
 ### 📞 Contacto
 

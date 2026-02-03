@@ -1,4 +1,23 @@
-# 💼 Portfólio Técnico - Desenvolvedor Full Stack
+# 🎓 Gestão Universitária — Plataforma SaaS Multi-Tenant
+
+<p align="left">
+    <a href="../README.md">
+        <img alt="Voltar ao Portfólio" src="https://img.shields.io/badge/←%20Voltar%20ao%20Portfólio-0D1117?style=flat-square" />
+    </a>
+</p>
+
+Documento de portfólio técnico: **plataforma SaaS multi-tenant** de grande escala, com arquitetura moderna e boas práticas de desenvolvimento.
+
+<p align="left">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-8.3+-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img alt="Alpine.js" src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinejs&logoColor=white" />
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+---
 
 ## 🎯 Visão Geral
 
@@ -369,5 +388,11 @@ Desenvolvimento de **plataforma SaaS multi-tenant** de grande escala, utilizando
 **Metodologias:** TDD, DDD, CI/CD, Documentação-Driven Development
 
 ---
+
+<p align="center">
+    <a href="../README.md">
+        <img alt="Voltar ao Portfólio" src="https://img.shields.io/badge/←%20Voltar%20ao%20Portfólio-0D1117?style=for-the-badge" />
+    </a>
+</p>
 
 *Este documento evidencia as competências técnicas, padrões implementados e metodologias aplicadas para desenvolver soluções de software complexas e escaláveis, demonstrando capacidade técnica e profissionalismo.*

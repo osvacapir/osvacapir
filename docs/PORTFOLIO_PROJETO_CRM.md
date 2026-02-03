@@ -1,7 +1,7 @@
 # 📱 Projeto CRM — Aplicação Multiplataforma
 
 <p align="left">
-    <a href="README.md">
+    <a href="../README.md">
         <img 
             alt="Voltar ao Portfólio" 
             src="https://img.shields.io/badge/←%20Voltar%20ao%20Portfólio-0D1117?style=flat-square"
@@ -256,7 +256,7 @@ As tecnologias e padrões utilizados estão alinhados com o que o mercado espera
 ---
 
 <p align="center">
-    <a href="README.md">
+    <a href="../README.md">
         <img 
             alt="Voltar ao Portfólio" 
             src="https://img.shields.io/badge/←%20Voltar%20ao%20Portfólio-0D1117?style=for-the-badge"

@@ -1,5 +1,7 @@
 # 👨‍💻 Osvaldo Adriano Capir
 
+**`Desenvolvedor & Data Analytics`** · Leiria, Portugal · [Contactar](mailto:osvacapir@gmail.com)
+
 <p align="left">
     <a href="https://github.com/osvacapir?tab=repositories&sort=stargazers">
         <img 
@@ -31,9 +33,23 @@
     </a>
 </p>
 
-**`Desenvolvedor & Data Analystics`**
+---
 
-Sou Osvaldo Capir, Engenheiro Informatico. Actuo como Desenvolvedor de Software e por muito fui professor universitário da mesma área do Saber. Atualmente resido em Leiria, Portugal, e estou disponível para trabalho remoto e consultoria tecnológica.
+### 📑 Índice
+
+- [Sobre mim](#-sobre-mim)
+- [Linguagens e Tecnologias](#-linguagens-e-tecnologias)
+- [Principais Projetos](#-principais-projetos-corporativos--privados)
+- [Experiência Corporativa](#-experiência-corporativa)
+- [Projetos em Destaque](#-projetos-em-destaque)
+- [Contacto](#-contacto)
+- [Estatísticas](#-estatísticas)
+
+---
+
+### 👤 Sobre mim
+
+Sou Osvaldo Capir, Engenheiro Informático. Actuo como Desenvolvedor de Software e, durante vários anos, fui professor universitário na mesma área. Disponível para **trabalho remoto** e **consultoria tecnológica**.
 
 **Formação:**
 
@@ -249,13 +265,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 ---
 
-**Principais Projetos Corporativos & Privados:**
+### 📋 Principais Projetos Corporativos & Privados
 
-- **VOSIKOLA** - Sistema de gestão escolar completo, multitenancy com versões Web e Mobile
-- **ISPREILUHUNA** - Instituição de ensino superior com sistema digital próprio, desenvolvido para garantir eficiência na gestão pedagógica
-- **OMILU ERP** - Sistema de Gestão Comercial de Facturação e Serviços + RH
-- **CRM Multiplataforma** - Aplicação híbrida .NET MAUI + Blazor para Android, iOS, Windows e Mac Catalyst - [Ver detalhes](PORTFOLIO_PROJETO_CRM.md)
-- **CRM API REST** - Backend Laravel 12 com integração ERP, autenticação avançada e documentação OpenAPI - [Ver detalhes](PORTFOLIO_PROJETO_CRM_API.md)
+- **VOSIKOLA** — Sistema de gestão escolar completo, multitenancy com versões Web e Mobile
+- **ISPREILUHUNA** — Instituição de ensino superior com sistema digital próprio para gestão pedagógica
+- **OMILU ERP** — Sistema de Gestão Comercial de Facturação e Serviços + RH
+- **CRM Multiplataforma** — Aplicação híbrida .NET MAUI + Blazor (Android, iOS, Windows, Mac) — [Ver detalhes](docs/PORTFOLIO_PROJETO_CRM.md)
+- **CRM API REST** — Backend Laravel 12 com integração ERP e OpenAPI — [Ver detalhes](docs/PORTFOLIO_PROJETO_CRM_API.md)
+- **Gestão Universitária** — Plataforma SaaS multi-tenant Laravel 11, Alpine.js, Tailwind, Docker — [Ver detalhes](docs/PORTFOLIO_Gestão%20Universitária.md)
+- **Portal TIC-DASH (BI)** — Portal de Business Intelligence com Power BI e PHP/MySQL — [Ver detalhes](docs/PORTFOLIO-TIC-DASH.md)
 
 
 <p align="left">
@@ -302,6 +320,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 - 💶 **Empresas Comerciais** - Sistemas ERP de Facturação e Serviços
 - 📱 **CRM Multiplataforma** - Aplicações móveis e desktop com .NET MAUI e Blazor
 - 🔌 **APIs REST** - Backend Laravel com integração ERP e autenticação avançada
+- 🎓 **Gestão Universitária** - Plataformas SaaS multi-tenant para ensino superior
+- 📊 **Business Intelligence** - Portais BI com Power BI, dados e dashboards
 
 ---
 
@@ -351,7 +371,7 @@ Aplicação **híbrida** de gestão (CRM) desenvolvida em **.NET MAUI** com **Bl
 - Microsoft Graph (email), Geolocalização
 - ZXing (QR/Barcode), Laravel Sanctum
 
-**📄 [Ver Documentação Completa →](PORTFOLIO_PROJETO_CRM.md)**
+**📄 [Ver Documentação Completa →](docs/PORTFOLIO_PROJETO_CRM.md)**
 
 ---
 
@@ -396,26 +416,108 @@ API REST para suporte a aplicações de gestão (CRM). Arquitetura versionada (v
 - Docker & Docker Compose
 - Laravel Sanctum, 2FA, OpenAPI/Swagger
 
-**📄 [Ver Documentação Completa →](PORTFOLIO_PROJETO_CRM_API.md)**
+**📄 [Ver Documentação Completa →](docs/PORTFOLIO_PROJETO_CRM_API.md)**
+
+---
+
+#### 🎓 Gestão Universitária - Plataforma SaaS Multi-Tenant
+
+<p align="left">
+    <img 
+        alt="Laravel" 
+        src="https://img.shields.io/badge/Laravel-11-FF2D20?style=flat-square&logo=laravel&logoColor=white"
+    />
+    <img 
+        alt="PHP" 
+        src="https://img.shields.io/badge/PHP-8.3+-777BB4?style=flat-square&logo=php&logoColor=white"
+    />
+    <img 
+        alt="Alpine.js" 
+        src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinejs&logoColor=white"
+    />
+    <img 
+        alt="Tailwind" 
+        src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"
+    />
+    <img 
+        alt="Docker" 
+        src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"
+    />
+    <img 
+        alt="Redis" 
+        src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"
+    />
+</p>
+
+Plataforma **SaaS multi-tenant** de grande escala: arquitetura Multi-Database, Service Layer, Repository Pattern, RBAC com Spatie, testes automatizados (PHPUnit), CI/CD e documentação técnica completa.
+
+**🔧 Stack Principal:**
+- Laravel 11, PHP 8.3+, MySQL/MariaDB, Redis
+- Alpine.js, Tailwind CSS, Vite
+- Docker, Nginx, Swagger/OpenAPI
+- Multi-tenancy, Policy-Based Authorization
+
+**📄 [Ver Documentação Completa →](docs/PORTFOLIO_Gestão%20Universitária.md)**
+
+---
+
+#### 📊 Portal TIC-DASH — Business Intelligence
+
+<p align="left">
+    <img 
+        alt="Power BI" 
+        src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"
+    />
+    <img 
+        alt="PHP" 
+        src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"
+    />
+    <img 
+        alt="MySQL" 
+        src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"
+    />
+    <img 
+        alt="Azure" 
+        src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"
+    />
+</p>
+
+Portal interno de **Business Intelligence**: utilizadores acedem a dashboards Power BI por empresa, com autenticação, gestão multi-empresa e área de administração. Ciclo completo: análise de dados, SP, Power BI, Gateway Azure e deploy.
+
+**🔧 Stack Principal:**
+- Power BI (relatórios, dashboards, Gateway Azure)
+- PHP, MySQL, stored procedures
+- HTML5, CSS3, JavaScript
+- Apache, hosting convencional
+
+**📄 [Ver Documentação Completa →](docs/PORTFOLIO-TIC-DASH.md)**
 
 ---
 
 ### 📞 Contacto
 
-**Informações de Contacto:**
+<p align="left">
+    <a href="mailto:osvacapir@gmail.com">
+        <img alt="Email" title="Enviar email" src="https://img.shields.io/badge/Email-osvacapir@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://wa.me/35138287156">
+        <img alt="WhatsApp" title="Contactar por WhatsApp" src="https://img.shields.io/badge/WhatsApp-+351%20382%20871%2056-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/osvaldo-adriano-capir-441299120/">
+        <img alt="LinkedIn" title="Perfil LinkedIn" src="https://img.shields.io/badge/LinkedIn-Osvaldo%20Capir-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/osvacapir">
+        <img alt="GitHub" title="Repositórios GitHub" src="https://img.shields.io/badge/GitHub-osvacapir-181717?style=flat-square&logo=github&logoColor=white" />
+    </a>
+</p>
 
-- 📧 **Email:** osvacapir@gmail.com
-- 📱 **WhatsApp:** [+351 382 871 56](https://wa.me/35138287156)
-- 📍 **Localização:** Leiria, Portugal
-- 💼 **LinkedIn:** [osvaldo-adriano-capir-441299120](https://www.linkedin.com/in/osvaldo-adriano-capir-441299120/)
-- 🐙 **GitHub:** [osvacapir](https://github.com/osvacapir)
+- 📍 **Localização:** Leiria, Portugal  
+- ✅ **Disponível para:** trabalho remoto, consultoria tecnológica, projetos personalizados e corporativos
 
-**Disponibilidade:**
-
-- ✅ Trabalho remoto
-- ✅ Consultoria tecnológica
-- ✅ Desenvolvimento de projetos personalizados
-- ✅ Projetos organizacionais e corporativos
+<p align="center">
+  <strong>Vamos conversar?</strong><br/>
+  <a href="mailto:osvacapir@gmail.com">osvacapir@gmail.com</a> · <a href="https://wa.me/35138287156">WhatsApp</a> · <a href="https://www.linkedin.com/in/osvaldo-adriano-capir-441299120/">LinkedIn</a>
+</p>
 
 ---
 

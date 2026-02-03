@@ -1,7 +1,20 @@
-# Portal de Business Intelligence — Portfólio do programador
+# 📊 Portal TIC-DASH — Business Intelligence
+
+<p align="left">
+    <a href="../README.md">
+        <img alt="Voltar ao Portfólio" src="https://img.shields.io/badge/←%20Voltar%20ao%20Portfólio-0D1117?style=flat-square" />
+    </a>
+</p>
 
 **Tipo:** Caso de estudo · Full-stack · Ciclo completo de desenvolvimento  
 **Contexto:** Projeto profissional em que o programador participou em todas as fases — desde a análise de dados e alimentação do Power BI até ao portal web, administração e colocação em produção.
+
+<p align="left">
+    <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img alt="Azure" src="https://img.shields.io/badge/Azure%20Gateway-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</p>
 
 ---
 
@@ -47,5 +60,11 @@ O programador esteve envolvido em **todo o ciclo** do projeto: análise de requi
 | **Deploy** | Apache, hosting convencional, ferramentas standard |
 
 ---
+
+<p align="center">
+    <a href="../README.md">
+        <img alt="Voltar ao Portfólio" src="https://img.shields.io/badge/←%20Voltar%20ao%20Portfólio-0D1117?style=for-the-badge" />
+    </a>
+</p>
 
 *Documento de portfólio profissional. Redigido para demonstrar qualificações do programador para futuros projetos, sem expor detalhes de implementação ou dados sensíveis do negócio.*

@@ -1,7 +1,7 @@
 # 🔌 Portfólio — API REST CRM
 
 <p align="left">
-    <a href="README.md">
+    <a href="../README.md">
         <img 
             alt="Voltar ao Portfólio" 
             src="https://img.shields.io/badge/←%20Voltar%20ao%20Portfólio-0D1117?style=flat-square"
@@ -254,7 +254,7 @@ Este documento descreve **competências e tecnologias** utilizadas no projeto, s
 ---
 
 <p align="center">
-    <a href="README.md">
+    <a href="../README.md">
         <img 
             alt="Voltar ao Portfólio" 
             src="https://img.shields.io/badge/←%20Voltar%20ao%20Portfólio-0D1117?style=for-the-badge"

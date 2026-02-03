@@ -9,7 +9,7 @@
 </td>
 <td style="border: none; padding: 0 0 0 1rem; vertical-align: top;">
 
-**`Desenvolvedor & Data Analytics`** · Leiria, Portugal
+**`Desenvolvedor & Data Analytics`** · - s Portugal
 
 > *"O mundo precisa de homens que não se compram nem se vendem. Homens verdadeiros e honestos."*
 

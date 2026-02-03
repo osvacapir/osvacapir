@@ -1,13 +1,13 @@
 # 👨‍💻 Osvaldo Adriano Capir
 
-<table>
+<table style="border: none; border-collapse: collapse;">
 <tr>
-<td width="280">
+<td width="280" style="border: none; padding: 0; vertical-align: top;">
 
 <img src="assets/WhatsApp%20Image%202026-01-18%20at%2013.38.53.jpeg" alt="Osvaldo Capir" width="220" style="border-radius: 12px;" />
 
 </td>
-<td>
+<td style="border: none; padding: 0 0 0 1rem; vertical-align: top;">
 
 **`Desenvolvedor & Data Analytics`** · Leiria, Portugal
 

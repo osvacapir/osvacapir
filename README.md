@@ -1,6 +1,24 @@
 # 👨‍💻 Osvaldo Adriano Capir
 
-**`Desenvolvedor & Data Analytics`** · Leiria, Portugal · [Contactar](mailto:osvacapir@gmail.com)
+<table>
+<tr>
+<td width="280">
+
+<img src="assets/photo.png" alt="Osvaldo Capir" width="220" style="border-radius: 12px;" />
+
+</td>
+<td>
+
+**`Desenvolvedor & Data Analytics`**  
+Leiria, Portugal · [Contactar](mailto:osvacapir@gmail.com)
+
+> *"O mundo precisa de homens que não se compram nem se vendem. Homens verdadeiros e honestos."*
+
+Sou Osvaldo Capir, Engenheiro Informático. Desenvolvedor de Software e, durante vários anos, professor universitário na mesma área. Disponível para **trabalho remoto** e **consultoria tecnológica**.
+
+</td>
+</tr>
+</table>
 
 <p align="left">
     <a href="https://github.com/osvacapir?tab=repositories&sort=stargazers">
@@ -38,6 +56,7 @@
 ### 📑 Índice
 
 - [Sobre mim](#-sobre-mim)
+- [Formação](#-formação)
 - [Linguagens e Tecnologias](#-linguagens-e-tecnologias)
 - [Principais Projetos](#-principais-projetos-corporativos--privados)
 - [Experiência Corporativa](#-experiência-corporativa)
@@ -49,13 +68,28 @@
 
 ### 👤 Sobre mim
 
-Sou Osvaldo Capir, Engenheiro Informático. Actuo como Desenvolvedor de Software e, durante vários anos, fui professor universitário na mesma área. Disponível para **trabalho remoto** e **consultoria tecnológica**.
+Actuo como Desenvolvedor de Software e, durante vários anos, fui professor universitário na mesma área. Combino experiência em **engenharia de software**, **aplicações móveis e web** e **ciência de dados**, com foco em soluções que agregam valor às organizações.
 
-**Formação:**
+---
 
-- Mestrando em Ciência de Dados
-- Mestre em Desenvolvimento de Aplicativos para Dispositivos Móveis
-- Licenciado em Engenharia Informática
+### 🎓 Formação
+
+**Ensino superior**
+
+| Instituição | Curso / Competências |
+|-------------|----------------------|
+| **ESTG, IPL, Leiria** | Mestrando em Ciência de Dados (2025/2026). Ciência de Dados, Business Analytics & Intelligence, Gestão e Governança de Dados. |
+| **Universidade Gregório Semedo, Angola** | Mestrado em Desenvolvimento de Aplicações para Dispositivos Móveis (2021–2023). Ciclo de vida de apps, UI/UX, APIs, desenvolvimento nativo Android (Java/Kotlin) e iOS, cross-platform. |
+| **Instituto Superior Politécnico de Benguela** | Licenciatura em Engenharia Informática (2009–2013). Intercâmbio em Desenvolvimento de Software na Universidade de Aveiro (2013). Engenharia de Software, desenvolvimento web e desktop, bases de dados. |
+
+**Formações complementares (cursos)**
+
+- Spring Boot Expert (Udemy, 2024) — JPA, REST, JWT, projetos práticos  
+- Gestão Ágil com SCRUM (Udemy, 2024) — Metodologias ágeis  
+- Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS (Udemy, 2023)  
+- Automação (IA) com N8N (Hotmart, 2025) — Projetos práticos  
+- Análise de Dados — Excel e Power BI Expert (Viscari Inc., Hotmart)  
+- ASP.NET do 0 à Azure e GCP com ASP.NET 10, Docker e K8s — API e DevOps (Udemy, em curso)
 
 ---
 

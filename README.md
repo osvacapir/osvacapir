@@ -133,36 +133,36 @@ Engenheiro Informático, Desenvolvedor de Software e ex-professor universitário
 <!-- GITHUB_PROJECTS_START -->
 ### 📋 Principais Projetos
 
-_Dados sincronizados com repositórios GitHub reais (conta `osvacapir` + org `Zeta-Byte`)._
+_Projetos ligados a repositórios na conta pessoal e em organizações (sem exposição de nomes de repos)._
 
-- **VOSIKOLA** — Gestão escolar SUP — multitenancy, web, mobile e agente IA · `Laravel · PHP · .NET MAUI · FastAPI · Python` · _atualizado 2026-08_
-  - Repositórios: [`vosikola-sup-web`](https://github.com/Zeta-Byte/vosikola-sup-web), [`vosikola-sup-api`](https://github.com/Zeta-Byte/vosikola-sup-api), [`workspace-sup`](https://github.com/Zeta-Byte/workspace-sup), [`vosikola-sup-agent`](https://github.com/Zeta-Byte/vosikola-sup-agent) (+4)
-- **ISPREILUHUNA** — Sistema digital para ensino superior (Instituto Cunene) · `Laravel · PHP · Blade` · _atualizado 2024-04_
-  - Repositórios: [`vosikola-isprl`](https://github.com/Zeta-Byte/vosikola-isprl)
-- **OMILU ERP** — Gestão comercial, facturação e RH · `Java` · _atualizado 2025-08_
-  - Repositórios: [`omilu`](https://github.com/osvacapir/omilu)
-- **CRM Multiplataforma** — .NET MAUI + Blazor (Android, iOS, Windows, Mac) · `C# · .NET MAUI · Blazor` · _atualizado 2026-06_ · [detalhes](docs/PORTFOLIO_PROJETO_CRM.md)
-  - Repositórios: [`CrmAppBM`](https://github.com/osvacapir/CrmAppBM), [`Crm`](https://github.com/osvacapir/Crm), [`maui_crm`](https://github.com/osvacapir/maui_crm)
-- **CRM API REST** — Laravel 12, ERP, OpenAPI · `Laravel · PHP · Redis · Docker` · _atualizado 2025-12_ · [detalhes](docs/PORTFOLIO_PROJETO_CRM_API.md)
-  - Repositórios: [`php`](https://github.com/osvacapir/php)
-- **Gestão Universitária** — SaaS multi-tenant Laravel, Alpine.js, Tailwind, Docker · `Laravel · Alpine.js · Tailwind · Docker` · _atualizado 2026-08_ · [detalhes](docs/PORTFOLIO_Gestão%20Universitária.md)
-  - Repositórios: [`vosikola-sup-web`](https://github.com/Zeta-Byte/vosikola-sup-web), [`vosikola-sup-api`](https://github.com/Zeta-Byte/vosikola-sup-api), [`workspace-sup`](https://github.com/Zeta-Byte/workspace-sup)
-- **Portal TIC-DASH (BI)** — Power BI, PHP, MySQL · `Power BI · PHP · MySQL · Azure Gateway` · _atualizado 2026-02_ · [detalhes](docs/PORTFOLIO-TIC-DASH.md)
-  - Repositórios: [`power-bi-na-web`](https://github.com/osvacapir/power-bi-na-web)
-- **JurisForge** — RAG jurídico Angola — assistente legal com IA · `Python · RAG · FastAPI` · _atualizado 2026-08_
-  - Repositórios: [`jurisforge`](https://github.com/Zeta-Byte/jurisforge)
-- **Okutanga PDF** 🌐 — Leitor PDF offline (.NET MAUI + Blazor) · `C# · .NET MAUI · Blazor` · _atualizado 2026-07_
-  - Repositórios: [`okutanga-pdf`](https://github.com/osvacapir/okutanga-pdf)
-- **Meet** — App de encontros (NestJS + React + Docker) · `TypeScript · NestJS · React · Docker` · _atualizado 2026-08_
-  - Repositórios: [`meet`](https://github.com/osvacapir/meet)
-- **My OCR IA** — SaaS verificação BI angolano · `Python · OCR · IA` · _atualizado 2026-08_
-  - Repositórios: [`my-ocr-ia`](https://github.com/Zeta-Byte/my-ocr-ia)
+- **VOSIKOLA** — Gestão escolar SUP — multitenancy, web, mobile e agente IA · `Laravel · PHP · .NET MAUI · FastAPI · Python`
+  - _organização — 8 privado(s)_
+- **ISPREILUHUNA** — Sistema digital para ensino superior (Instituto Cunene) · `Laravel · PHP · Blade`
+  - _organização — 1 privado(s)_
+- **OMILU ERP** — Gestão comercial, facturação e RH · `Java`
+  - _conta pessoal — 1 privado(s)_
+- **CRM Multiplataforma** — .NET MAUI + Blazor (Android, iOS, Windows, Mac) · `C# · .NET MAUI · Blazor` · [detalhes](docs/PORTFOLIO_PROJETO_CRM.md)
+  - _conta pessoal — 3 privado(s)_
+- **CRM API REST** — Laravel 12, ERP, OpenAPI · `Laravel · PHP · Redis · Docker` · [detalhes](docs/PORTFOLIO_PROJETO_CRM_API.md)
+  - _conta pessoal — 1 privado(s)_
+- **Gestão Universitária** — SaaS multi-tenant Laravel, Alpine.js, Tailwind, Docker · `Laravel · Alpine.js · Tailwind · Docker` · [detalhes](docs/PORTFOLIO_Gestão%20Universitária.md)
+  - _organização — 3 privado(s)_
+- **Portal TIC-DASH (BI)** — Power BI, PHP, MySQL · `Power BI · PHP · MySQL · Azure Gateway` · [detalhes](docs/PORTFOLIO-TIC-DASH.md)
+  - _conta pessoal — 1 privado(s)_
+- **JurisForge** — RAG jurídico Angola — assistente legal com IA · `Python · RAG · FastAPI`
+  - _organização — 1 privado(s)_
+- **Okutanga PDF** 🌐 — Leitor PDF offline (.NET MAUI + Blazor) · `C# · .NET MAUI · Blazor`
+  - _conta pessoal — 1 público(s)_
+- **Meet** — App de encontros (NestJS + React + Docker) · `TypeScript · NestJS · React · Docker`
+  - _conta pessoal — 1 privado(s)_
+- **My OCR IA** — SaaS verificação BI angolano · `Python · OCR · IA`
+  - _organização — 1 privado(s)_
 
-**Repositórios públicos destacados:** [okutanga-pdf](https://github.com/osvacapir/okutanga-pdf) · [angolan-localization-api](https://github.com/osvacapir/angolan-localization-api) · [SenhaFortePro](https://github.com/osvacapir/SenhaFortePro) · [python-mini-proj-dir](https://github.com/osvacapir/python-mini-proj-dir)
+**Repositórios públicos (conta pessoal):** 6 · [ver perfil GitHub](https://github.com/osvacapir?tab=repositories)
 <!-- GITHUB_PROJECTS_END -->
 
 <!-- GITHUB_STATS_START -->
-**Estatística de repositórios (públicos + privados)** · _Atualizado: 2026-08-27 via GitHub API_
+**Estatística de repositórios (públicos + privados)**
 
 <p align="left">
     <img alt="Total de repositórios" title="Total: públicos + privados (conta + organizações)" src="https://img.shields.io/badge/Total-71-blue?style=for-the-badge&logo=github&logoColor=white" />

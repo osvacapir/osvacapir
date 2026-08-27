@@ -101,6 +101,42 @@ PORTFOLIO_PROJECTS = [
     },
 ]
 
+PERSONAL_OWNER = "osvacapir"
+ORG_OWNER = "Zeta-Byte"
+
+
+def summarize_affiliation(matched: list[dict]) -> str | None:
+    if not matched:
+        return None
+    personal = [r for r in matched if r["owner"]["login"] == PERSONAL_OWNER]
+    org = [r for r in matched if r["owner"]["login"] == ORG_OWNER]
+    parts: list[str] = []
+    if personal:
+        public = sum(1 for r in personal if not r["private"])
+        private = len(personal) - public
+        if public and private:
+            parts.append(f"conta pessoal — {private} privado(s), {public} público(s)")
+        elif public:
+            parts.append(f"conta pessoal — {public} público(s)")
+        else:
+            parts.append(f"conta pessoal — {private} privado(s)")
+    if org:
+        public = sum(1 for r in org if not r["private"])
+        private = len(org) - public
+        if public and private:
+            parts.append(f"organização — {private} privado(s), {public} público(s)")
+        elif public:
+            parts.append(f"organização — {public} público(s)")
+        else:
+            parts.append(f"organização — {private} privado(s)")
+    return " · ".join(parts)
+
+
+def owner_label(full_name: str) -> str:
+    owner = full_name.split("/", 1)[0]
+    return "Conta pessoal" if owner == PERSONAL_OWNER else "Organização"
+
+
 DOC_REPO_MAP = {
     "PORTFOLIO_PROJETO_CRM.md": ["osvacapir/CrmAppBM", "osvacapir/Crm"],
     "PORTFOLIO_PROJETO_CRM_API.md": ["osvacapir/php"],
@@ -223,7 +259,7 @@ def build_stats(user: dict, repos: list[dict]) -> dict:
 
 
 def render_stats_section(stats: dict) -> str:
-    return f"""**Estatística de repositórios (públicos + privados)** · _Atualizado: {stats['synced_at'][:10]} via GitHub API_
+    return f"""**Estatística de repositórios (públicos + privados)**
 
 <p align="left">
     <img alt="Total de repositórios" title="Total: públicos + privados (conta + organizações)" src="https://img.shields.io/badge/Total-{stats['total_repos']}-blue?style=for-the-badge&logo=github&logoColor=white" />
@@ -237,48 +273,38 @@ def render_projects_section(index: dict[str, dict]) -> str:
     lines = [
         "### 📋 Principais Projetos",
         "",
-        "_Dados sincronizados com repositórios GitHub reais (conta `osvacapir` + org `Zeta-Byte`)._",
+        "_Projetos ligados a repositórios na conta pessoal e em organizações (sem exposição de nomes de repos)._",
         "",
     ]
     for project in PORTFOLIO_PROJECTS:
         matched = [index[r] for r in project["repos"] if r in index]
-        last_update = max(
-            (r["updated_at"] for r in matched if r.get("updated_at")),
-            default=None,
-        )
-        updated_label = format_date(last_update)
         doc = project.get("doc")
         doc_link = f" · [detalhes]({doc})" if doc else ""
         public_badge = " 🌐" if project.get("public") or any(not r["private"] for r in matched) else ""
         lines.append(
             f"- **{project['name']}**{public_badge} — {project['summary']} · "
-            f"`{project['stack']}` · _atualizado {updated_label}_"
+            f"`{project['stack']}`"
             f"{doc_link}"
         )
-        if matched:
-            repo_links = ", ".join(
-                f"[`{r['name']}`]({r['html_url']})" for r in matched[:4]
-            )
-            extra = len(matched) - 4
-            if extra > 0:
-                repo_links += f" (+{extra})"
-            lines.append(f"  - Repositórios: {repo_links}")
+        affiliation = summarize_affiliation(matched)
+        if affiliation:
+            lines.append(f"  - _{affiliation}_")
     lines.append("")
+    personal_public = sum(
+        1 for r in index.values() if r["owner"]["login"] == PERSONAL_OWNER and not r["private"]
+    )
     lines.append(
-        "**Repositórios públicos destacados:** "
-        "[okutanga-pdf](https://github.com/osvacapir/okutanga-pdf) · "
-        "[angolan-localization-api](https://github.com/osvacapir/angolan-localization-api) · "
-        "[SenhaFortePro](https://github.com/osvacapir/SenhaFortePro) · "
-        "[python-mini-proj-dir](https://github.com/osvacapir/python-mini-proj-dir)"
+        f"**Repositórios públicos (conta pessoal):** {personal_public} · "
+        f"[ver perfil GitHub](https://github.com/{PERSONAL_OWNER}?tab=repositories)"
     )
     return "\n".join(lines)
 
 
-def render_doc_github_section(metrics_list: list[dict], synced_at: str) -> str:
+def render_doc_github_section(metrics_list: list[dict]) -> str:
     lines = [
         "## 🔗 Dados GitHub (repositórios reais)",
         "",
-        f"_Sincronizado em {synced_at[:10]} via GitHub API — execute `python3 scripts/sync-github-portfolio.py` para atualizar._",
+        "_Métricas agregadas por origem (conta pessoal ou organização), sem nomes de repositórios._",
         "",
     ]
     total_commits = sum(m["commits"] or 0 for m in metrics_list)
@@ -292,16 +318,15 @@ def render_doc_github_section(metrics_list: list[dict], synced_at: str) -> str:
         f"</p>"
     )
     lines.append("")
-    lines.append("| Repositório | Visibilidade | Linguagem | Commits | Último push |")
-    lines.append("|-------------|--------------|-----------|---------|-------------|")
+    lines.append("| Origem | Visibilidade | Linguagem | Commits |")
+    lines.append("|--------|--------------|-----------|---------|")
 
     for m in metrics_list:
         visibility = "privado" if m["private"] else "público"
         commits = str(m["commits"]) if m["commits"] is not None else "—"
         lang = m["primary_language"] or "—"
-        short = m["full_name"].split("/", 1)[1]
         lines.append(
-            f"| [`{short}`]({m['html_url']}) | {visibility} | {lang} | {commits} | {m['pushed_at']} |"
+            f"| {owner_label(m['full_name'])} | {visibility} | {lang} | {commits} |"
         )
 
     all_langs: dict[str, float] = {}
@@ -336,7 +361,7 @@ def sync_docs(synced_at: str) -> int:
             print(f"⚠ Doc não encontrado: {filename}")
             continue
         metrics = [fetch_repo_metrics(name) for name in repo_names]
-        body = render_doc_github_section(metrics, synced_at)
+        body = render_doc_github_section(metrics)
         content = doc_path.read_text(encoding="utf-8")
         content = replace_section(
             content,

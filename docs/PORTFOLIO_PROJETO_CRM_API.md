@@ -43,13 +43,13 @@ Documento de apoio ao portfólio do programador, descrevendo **ferramentas, comp
 <!-- GITHUB_REPO_STATS_START -->
 ## 🔗 Dados GitHub (repositórios reais)
 
-_Sincronizado em 2026-08-27 via GitHub API — execute `python3 scripts/sync-github-portfolio.py` para atualizar._
+_Métricas agregadas por origem (conta pessoal ou organização), sem nomes de repositórios._
 
 <p align="left"><img alt="Repositórios" src="https://img.shields.io/badge/Repositórios-1-blue?style=flat-square&logo=github" /> <img alt="Commits" src="https://img.shields.io/badge/Commits-7-green?style=flat-square" /> <img alt="Tamanho" src="https://img.shields.io/badge/Tamanho-1MB+-informational?style=flat-square" /> </p>
 
-| Repositório | Visibilidade | Linguagem | Commits | Último push |
-|-------------|--------------|-----------|---------|-------------|
-| [`php`](https://github.com/osvacapir/php) | privado | PHP | 7 | 2025-11-19 |
+| Origem | Visibilidade | Linguagem | Commits |
+|--------|--------------|-----------|---------|
+| Conta pessoal | privado | PHP | 7 |
 
 **Distribuição de linguagens (média ponderada):** PHP (100%), Shell (0%), TSQL (0%), PowerShell (0%), Dockerfile (0%)
 <!-- GITHUB_REPO_STATS_END -->

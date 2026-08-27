@@ -22,7 +22,15 @@ Sou Osvaldo Capir, Engenheiro Informático. Desenvolvedor de Software e ex-profe
 ### Linguagens e tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,java,kotlin,python,js,ts,react,vue,html,css,tailwind,bootstrap,sass,mysql,redis,docker,git,android,azure,vite&perline=12" alt="Stack tecnológica" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,java,kotlin,python,js,ts&perline=8" alt="Linguagens" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,spring,nestjs,fastapi,blazor,react,vue,alpine,html,css,tailwind,bootstrap,sass,jquery,vite&perline=12" alt="Frameworks e frontend" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mssql,redis,docker,git,android,apple,azure,powerbi,openapi,n8n&perline=11" alt="Dados, cloud e ferramentas" />
 </p>
 
 <p align="left">
@@ -37,6 +45,9 @@ Sou Osvaldo Capir, Engenheiro Informático. Desenvolvedor de Software e ex-profe
 <!-- Backend & frameworks -->
 <img align="left" alt=".NET" title=".NET" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="Laravel" title="Laravel" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/laravel/laravel-original.svg" />
+<img align="left" alt="Spring" title="Spring Boot" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/spring/spring-original.svg" />
+<img align="left" alt="NestJS" title="NestJS" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+<img align="left" alt="FastAPI" title="FastAPI" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/fastapi/fastapi-original.svg" />
 <img align="left" alt="Blazor" title="Blazor" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/blazor/blazor-original.svg" />
 <img align="left" alt="React" title="React" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/react/react-original.svg" />
 <img align="left" alt="Vue.js" title="Vue.js" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/vuejs/vuejs-original.svg" />
@@ -58,8 +69,13 @@ Sou Osvaldo Capir, Engenheiro Informático. Desenvolvedor de Software e ex-profe
 <img align="left" alt="Git" title="Git" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/git/git-original.svg" />
 <!-- Mobile, BI & Cloud -->
 <img align="left" alt="Android" title="Android" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/android/android-original.svg" />
+<img align="left" alt="Apple" title="iOS" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/apple/apple-original.svg" />
 <img align="left" alt="Power BI" title="Power BI" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/powerbi/powerbi-original.svg" />
 <img align="left" alt="Azure" title="Microsoft Azure" width="28px" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.15.1/icons/azure/azure-original.svg" />
+<img align="left" alt=".NET MAUI" title=".NET MAUI" src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img align="left" alt="OpenAPI" title="OpenAPI / Swagger" src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=swagger&logoColor=white" />
+<img align="left" alt="N8N" title="N8N" src="https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img align="left" alt="Excel" title="Excel / Power BI" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 </p>
 
 <br clear="both"/>

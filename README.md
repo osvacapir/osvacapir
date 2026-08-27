@@ -1,23 +1,10 @@
 # 👨‍💻 Osvaldo Adriano Capir
 
-<table style="border: none; border-collapse: collapse;">
-<tr>
-<td width="280" style="border: none; padding: 0; vertical-align: top;">
-
-<img src="assets/WhatsApp%20Image%202026-01-18%20at%2013.38.53.jpeg" alt="Osvaldo Capir" width="220" style="border-radius: 12px;" />
-
-</td>
-<td style="border: none; padding: 0 0 0 1rem; vertical-align: top;">
-
-**`Desenvolvedor & Data Analytics`** · - s Portugal
+**`Desenvolvedor & Data Analytics`** · Leiria, Portugal
 
 > *"O mundo precisa de homens que não se compram nem se vendem. Homens verdadeiros e honestos."*
 
 Sou Osvaldo Capir, Engenheiro Informático. Desenvolvedor de Software e ex-professor universitário. Disponível para trabalho remoto e consultoria tecnológica.
-
-</td>
-</tr>
-</table>
 
 ### Linguagens e tecnologias
 

@@ -17,6 +17,21 @@ Documento de portfólio técnico: **plataforma SaaS multi-tenant** de grande esc
     <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
+<!-- GITHUB_REPO_STATS_START -->
+## 🔗 Dados GitHub (repositórios reais)
+
+_Sincronizado em 2026-08-27 via GitHub API — execute `python3 scripts/sync-github-portfolio.py` para atualizar._
+
+<p align="left"><img alt="Repositórios" src="https://img.shields.io/badge/Repositórios-2-blue?style=flat-square&logo=github" /> <img alt="Commits" src="https://img.shields.io/badge/Commits-492-green?style=flat-square" /> <img alt="Tamanho" src="https://img.shields.io/badge/Tamanho-63MB+-informational?style=flat-square" /> </p>
+
+| Repositório | Visibilidade | Linguagem | Commits | Último push |
+|-------------|--------------|-----------|---------|-------------|
+| [`vosikola-sup-web`](https://github.com/Zeta-Byte/vosikola-sup-web) | privado | PHP | 189 | 2026-08-07 |
+| [`vosikola-sup-api`](https://github.com/Zeta-Byte/vosikola-sup-api) | privado | PHP | 303 | 2026-08-07 |
+
+**Distribuição de linguagens (média ponderada):** PHP (60%), Blade (29%), CSS (8%), JavaScript (1%), Shell (1%)
+<!-- GITHUB_REPO_STATS_END -->
+
 ---
 
 ## 🎯 Visão Geral

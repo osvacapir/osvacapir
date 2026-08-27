@@ -36,6 +36,21 @@ Documento de portfólio que descreve o âmbito técnico do projeto, as competên
     />
 </p>
 
+<!-- GITHUB_REPO_STATS_START -->
+## 🔗 Dados GitHub (repositórios reais)
+
+_Sincronizado em 2026-08-27 via GitHub API — execute `python3 scripts/sync-github-portfolio.py` para atualizar._
+
+<p align="left"><img alt="Repositórios" src="https://img.shields.io/badge/Repositórios-2-blue?style=flat-square&logo=github" /> <img alt="Commits" src="https://img.shields.io/badge/Commits-16-green?style=flat-square" /> <img alt="Tamanho" src="https://img.shields.io/badge/Tamanho-273MB+-informational?style=flat-square" /> </p>
+
+| Repositório | Visibilidade | Linguagem | Commits | Último push |
+|-------------|--------------|-----------|---------|-------------|
+| [`CrmAppBM`](https://github.com/osvacapir/CrmAppBM) | privado | CSS | 14 | 2025-12-16 |
+| [`Crm`](https://github.com/osvacapir/Crm) | privado | C# | 2 | 2025-10-30 |
+
+**Distribuição de linguagens (média ponderada):** CSS (37%), HTML (35%), C# (27%), JavaScript (1%), PowerShell (0%)
+<!-- GITHUB_REPO_STATS_END -->
+
 ---
 
 ## Visão geral

@@ -16,6 +16,20 @@
     <img alt="Azure" src="https://img.shields.io/badge/Azure%20Gateway-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
+<!-- GITHUB_REPO_STATS_START -->
+## 🔗 Dados GitHub (repositórios reais)
+
+_Sincronizado em 2026-08-27 via GitHub API — execute `python3 scripts/sync-github-portfolio.py` para atualizar._
+
+<p align="left"><img alt="Repositórios" src="https://img.shields.io/badge/Repositórios-1-blue?style=flat-square&logo=github" /> <img alt="Commits" src="https://img.shields.io/badge/Commits-2-green?style=flat-square" /> <img alt="Tamanho" src="https://img.shields.io/badge/Tamanho-10MB+-informational?style=flat-square" /> </p>
+
+| Repositório | Visibilidade | Linguagem | Commits | Último push |
+|-------------|--------------|-----------|---------|-------------|
+| [`power-bi-na-web`](https://github.com/osvacapir/power-bi-na-web) | privado | PHP | 2 | 2026-02-02 |
+
+**Distribuição de linguagens (média ponderada):** PHP (64%), HTML (30%), CSS (4%), JavaScript (2%), Dockerfile (0%)
+<!-- GITHUB_REPO_STATS_END -->
+
 ---
 
 ## Visão geral

@@ -1,0 +1,829 @@
+{
+  "synced_at": "2026-08-27T21:37:37.095017+00:00",
+  "username": "osvacapir",
+  "name": "Osvaldo Capir",
+  "followers": 1,
+  "following": 2,
+  "public_repos_account": 6,
+  "total_repos": 71,
+  "public_repos": 6,
+  "private_repos": 65,
+  "total_stars": 1,
+  "top_languages": [
+    [
+      "Blade",
+      17
+    ],
+    [
+      "PHP",
+      8
+    ],
+    [
+      "HTML",
+      7
+    ],
+    [
+      "Python",
+      5
+    ],
+    [
+      "TypeScript",
+      5
+    ],
+    [
+      "C#",
+      4
+    ],
+    [
+      "CSS",
+      4
+    ],
+    [
+      "JavaScript",
+      2
+    ]
+  ],
+  "repos": [
+    {
+      "full_name": "Zeta-Byte/jurisforge",
+      "name": "jurisforge",
+      "owner": "Zeta-Byte",
+      "description": "JurisForge — RAG jurídico Angola (Modo A). Deploy só via main.",
+      "private": true,
+      "language": "Python",
+      "stars": 0,
+      "updated_at": "2026-08-11T19:27:28Z",
+      "html_url": "https://github.com/Zeta-Byte/jurisforge"
+    },
+    {
+      "full_name": "Zeta-Byte/med-api",
+      "name": "med-api",
+      "owner": "Zeta-Byte",
+      "description": null,
+      "private": true,
+      "language": "PHP",
+      "stars": 0,
+      "updated_at": "2026-08-09T20:22:34Z",
+      "html_url": "https://github.com/Zeta-Byte/med-api"
+    },
+    {
+      "full_name": "Zeta-Byte/vps-infra",
+      "name": "vps-infra",
+      "owner": "Zeta-Byte",
+      "description": null,
+      "private": true,
+      "language": "Shell",
+      "stars": 0,
+      "updated_at": "2026-08-09T10:33:10Z",
+      "html_url": "https://github.com/Zeta-Byte/vps-infra"
+    },
+    {
+      "full_name": "Zeta-Byte/my-ocr-ia",
+      "name": "my-ocr-ia",
+      "owner": "Zeta-Byte",
+      "description": "SaaS verificação BI angolano",
+      "private": true,
+      "language": "Python",
+      "stars": 0,
+      "updated_at": "2026-08-07T18:15:44Z",
+      "html_url": "https://github.com/Zeta-Byte/my-ocr-ia"
+    },
+    {
+      "full_name": "Zeta-Byte/vosikola-sup-web",
+      "name": "vosikola-sup-web",
+      "owner": "Zeta-Byte",
+      "description": null,
+      "private": true,
+      "language": "PHP",
+      "stars": 0,
+      "updated_at": "2026-08-07T18:02:39Z",
+      "html_url": "https://github.com/Zeta-Byte/vosikola-sup-web"
+    },
+    {
+      "full_name": "osvacapir/meet",
+      "name": "meet",
+      "owner": "osvacapir",
+      "description": "Meet — app de encontros (NestJS + React + Docker)",
+      "private": true,
+      "language": "TypeScript",
+      "stars": 0,
+      "updated_at": "2026-08-07T18:01:24Z",
+      "html_url": "https://github.com/osvacapir/meet"
+    },
+    {
+      "full_name": "Zeta-Byte/vosikola-sup-agent",
+      "name": "vosikola-sup-agent",
+      "owner": "Zeta-Byte",
+      "description": "Agente de IA de atendimento SUP — FastAPI, RAG lexical, tools Sanctum",
+      "private": true,
+      "language": "Python",
+      "stars": 0,
+      "updated_at": "2026-08-07T15:05:04Z",
+      "html_url": "https://github.com/Zeta-Byte/vosikola-sup-agent"
+    },
+    {
+      "full_name": "Zeta-Byte/vosikola-sup-api",
+      "name": "vosikola-sup-api",
+      "owner": "Zeta-Byte",
+      "description": null,
+      "private": true,
+      "language": "PHP",
+      "stars": 0,
+      "updated_at": "2026-08-07T15:04:27Z",
+      "html_url": "https://github.com/Zeta-Byte/vosikola-sup-api"
+    },
+    {
+      "full_name": "osvacapir/workspace-med",
+      "name": "workspace-med",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "Inno Setup",
+      "stars": 0,
+      "updated_at": "2026-08-05T11:47:08Z",
+      "html_url": "https://github.com/osvacapir/workspace-med"
+    },
+    {
+      "full_name": "Zeta-Byte/AdminApp",
+      "name": "AdminApp",
+      "owner": "Zeta-Byte",
+      "description": "App secretaria/admin .NET MAUI Blazor para ecossistema VOSIKOLA Med",
+      "private": true,
+      "language": "C#",
+      "stars": 0,
+      "updated_at": "2026-08-05T09:11:49Z",
+      "html_url": "https://github.com/Zeta-Byte/AdminApp"
+    },
+    {
+      "full_name": "osvacapir/OlondongeApp",
+      "name": "OlondongeApp",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "C#",
+      "stars": 0,
+      "updated_at": "2026-08-05T09:10:20Z",
+      "html_url": "https://github.com/osvacapir/OlondongeApp"
+    },
+    {
+      "full_name": "Zeta-Byte/workspace-sup",
+      "name": "workspace-sup",
+      "owner": "Zeta-Byte",
+      "description": "Meta-repo do workspace SUP — documentação, Cursor, E2E e scripts (API, web e apps MAUI em repositórios separados)",
+      "private": true,
+      "language": "JavaScript",
+      "stars": 0,
+      "updated_at": "2026-07-20T16:23:34Z",
+      "html_url": "https://github.com/Zeta-Byte/workspace-sup"
+    },
+    {
+      "full_name": "Zeta-Byte/vosikola-online",
+      "name": "vosikola-online",
+      "owner": "Zeta-Byte",
+      "description": "Este repositório contém a versão atual e estável do site do Vosikola, correspondente à versão que se encontra em produção e em pleno funcionamento.",
+      "private": true,
+      "language": "Blade",
+      "stars": 0,
+      "updated_at": "2026-07-10T14:26:13Z",
+      "html_url": "https://github.com/Zeta-Byte/vosikola-online"
+    },
+    {
+      "full_name": "osvacapir/okutanga-pdf",
+      "name": "okutanga-pdf",
+      "owner": "osvacapir",
+      "description": "Okutanga PDF — leitor PDF offline (.NET MAUI + Blazor). Zetabyte.tech",
+      "private": false,
+      "language": "CSS",
+      "stars": 0,
+      "updated_at": "2026-07-05T21:40:33Z",
+      "html_url": "https://github.com/osvacapir/okutanga-pdf"
+    },
+    {
+      "full_name": "Zeta-Byte/FinanceApp-sup",
+      "name": "FinanceApp-sup",
+      "owner": "Zeta-Byte",
+      "description": "VosikolaFinance - app MAUI financeira do ecossistema SUP",
+      "private": true,
+      "language": "HTML",
+      "stars": 0,
+      "updated_at": "2026-07-03T16:56:37Z",
+      "html_url": "https://github.com/Zeta-Byte/FinanceApp-sup"
+    },
+    {
+      "full_name": "Zeta-Byte/StudentApp-sup",
+      "name": "StudentApp-sup",
+      "owner": "Zeta-Byte",
+      "description": "olondongue - app MAUI estudantes do ecossistema SUP",
+      "private": true,
+      "language": "C#",
+      "stars": 0,
+      "updated_at": "2026-07-03T16:56:34Z",
+      "html_url": "https://github.com/Zeta-Byte/StudentApp-sup"
+    },
+    {
+      "full_name": "Zeta-Byte/TeacherApp-sup",
+      "name": "TeacherApp-sup",
+      "owner": "Zeta-Byte",
+      "description": "Ulongisi - app MAUI professores do ecossistema SUP",
+      "private": true,
+      "language": "HTML",
+      "stars": 0,
+      "updated_at": "2026-07-01T16:29:26Z",
+      "html_url": "https://github.com/Zeta-Byte/TeacherApp-sup"
+    },
+    {
+      "full_name": "osvacapir/maui_crm",
+      "name": "maui_crm",
+      "owner": "osvacapir",
+      "description": "Workspace monorepo MauiCrm (docs, scripts, regras Cursor) — sem CrmApp, CrmApi, CTESI, CrmWeb",
+      "private": true,
+      "language": "PowerShell",
+      "stars": 0,
+      "updated_at": "2026-06-23T14:13:54Z",
+      "html_url": "https://github.com/osvacapir/maui_crm"
+    },
+    {
+      "full_name": "osvacapir/projeto_dm_humberto_ines_osvaldo_teresa",
+      "name": "projeto_dm_humberto_ines_osvaldo_teresa",
+      "owner": "osvacapir",
+      "description": null,
+      "private": false,
+      "language": "Python",
+      "stars": 0,
+      "updated_at": "2026-06-22T12:10:31Z",
+      "html_url": "https://github.com/osvacapir/projeto_dm_humberto_ines_osvaldo_teresa"
+    },
+    {
+      "full_name": "Zeta-Byte/UlongisiApp",
+      "name": "UlongisiApp",
+      "owner": "Zeta-Byte",
+      "description": null,
+      "private": true,
+      "language": "HTML",
+      "stars": 0,
+      "updated_at": "2026-06-19T15:54:18Z",
+      "html_url": "https://github.com/Zeta-Byte/UlongisiApp"
+    },
+    {
+      "full_name": "Zeta-Byte/missao",
+      "name": "missao",
+      "owner": "Zeta-Byte",
+      "description": "portal",
+      "private": true,
+      "language": "PHP",
+      "stars": 0,
+      "updated_at": "2026-04-26T19:17:14Z",
+      "html_url": "https://github.com/Zeta-Byte/missao"
+    },
+    {
+      "full_name": "Zeta-Byte/ai-api-key",
+      "name": "ai-api-key",
+      "owner": "Zeta-Byte",
+      "description": "Credenciaias de Prompts de IA",
+      "private": true,
+      "language": null,
+      "stars": 0,
+      "updated_at": "2026-04-24T22:05:24Z",
+      "html_url": "https://github.com/Zeta-Byte/ai-api-key"
+    },
+    {
+      "full_name": "Zeta-Byte/sos-saude",
+      "name": "sos-saude",
+      "owner": "Zeta-Byte",
+      "description": "Este repositório contém o código-fonte do site institucional da SOS Saúde Ocupacional, uma empresa privada que atua na área de saúde ocupacional",
+      "private": true,
+      "language": "HTML",
+      "stars": 0,
+      "updated_at": "2026-03-30T12:18:00Z",
+      "html_url": "https://github.com/Zeta-Byte/sos-saude"
+    },
+    {
+      "full_name": "Zeta-Byte/zetabyte",
+      "name": "zetabyte",
+      "owner": "Zeta-Byte",
+      "description": null,
+      "private": true,
+      "language": "Blade",
+      "stars": 0,
+      "updated_at": "2026-03-27T08:30:16Z",
+      "html_url": "https://github.com/Zeta-Byte/zetabyte"
+    },
+    {
+      "full_name": "osvacapir/api-med",
+      "name": "api-med",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": null,
+      "stars": 0,
+      "updated_at": "2026-03-14T23:23:15Z",
+      "html_url": "https://github.com/osvacapir/api-med"
+    },
+    {
+      "full_name": "osvacapir/emanuel",
+      "name": "emanuel",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "HTML",
+      "stars": 0,
+      "updated_at": "2026-03-01T21:55:46Z",
+      "html_url": "https://github.com/osvacapir/emanuel"
+    },
+    {
+      "full_name": "osvacapir/osvacapir",
+      "name": "osvacapir",
+      "owner": "osvacapir",
+      "description": null,
+      "private": false,
+      "language": null,
+      "stars": 0,
+      "updated_at": "2026-02-03T18:59:10Z",
+      "html_url": "https://github.com/osvacapir/osvacapir"
+    },
+    {
+      "full_name": "osvacapir/power-bi-na-web",
+      "name": "power-bi-na-web",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "PHP",
+      "stars": 0,
+      "updated_at": "2026-02-02T17:54:57Z",
+      "html_url": "https://github.com/osvacapir/power-bi-na-web"
+    },
+    {
+      "full_name": "osvacapir/CrmAppBM",
+      "name": "CrmAppBM",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "CSS",
+      "stars": 0,
+      "updated_at": "2025-12-17T17:35:42Z",
+      "html_url": "https://github.com/osvacapir/CrmAppBM"
+    },
+    {
+      "full_name": "osvacapir/Ulongisi",
+      "name": "Ulongisi",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "HTML",
+      "stars": 0,
+      "updated_at": "2025-12-16T09:16:02Z",
+      "html_url": "https://github.com/osvacapir/Ulongisi"
+    },
+    {
+      "full_name": "osvacapir/php",
+      "name": "php",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "PHP",
+      "stars": 0,
+      "updated_at": "2025-12-12T09:19:36Z",
+      "html_url": "https://github.com/osvacapir/php"
+    },
+    {
+      "full_name": "osvacapir/Crm",
+      "name": "Crm",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "C#",
+      "stars": 0,
+      "updated_at": "2025-10-30T14:31:20Z",
+      "html_url": "https://github.com/osvacapir/Crm"
+    },
+    {
+      "full_name": "Zeta-Byte/med-host",
+      "name": "med-host",
+      "owner": "Zeta-Byte",
+      "description": null,
+      "private": true,
+      "language": "PHP",
+      "stars": 0,
+      "updated_at": "2025-10-27T14:29:48Z",
+      "html_url": "https://github.com/Zeta-Byte/med-host"
+    },
+    {
+      "full_name": "Zeta-Byte/med-host-old",
+      "name": "med-host-old",
+      "owner": "Zeta-Byte",
+      "description": null,
+      "private": true,
+      "language": "Blade",
+      "stars": 0,
+      "updated_at": "2025-10-19T16:25:09Z",
+      "html_url": "https://github.com/Zeta-Byte/med-host-old"
+    },
+    {
+      "full_name": "Zeta-Byte/vosikola-last-host",
+      "name": "vosikola-last-host",
+      "owner": "Zeta-Byte",
+      "description": "Sistema de Gestão Escolar",
+      "private": true,
+      "language": null,
+      "stars": 0,
+      "updated_at": "2025-10-17T15:21:05Z",
+      "html_url": "https://github.com/Zeta-Byte/vosikola-last-host"
+    },
+    {
+      "full_name": "Zeta-Byte/vosikola-vps",
+      "name": "vosikola-vps",
+      "owner": "Zeta-Byte",
+      "description": null,
+      "private": true,
+      "language": "Blade",
+      "stars": 0,
+      "updated_at": "2025-10-16T08:46:38Z",
+      "html_url": "https://github.com/Zeta-Byte/vosikola-vps"
+    },
+    {
+      "full_name": "osvacapir/med-host-vps",
+      "name": "med-host-vps",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": null,
+      "stars": 0,
+      "updated_at": "2025-10-15T22:31:33Z",
+      "html_url": "https://github.com/osvacapir/med-host-vps"
+    },
+    {
+      "full_name": "osvacapir/angolan-localization-api",
+      "name": "angolan-localization-api",
+      "owner": "osvacapir",
+      "description": null,
+      "private": false,
+      "language": "TypeScript",
+      "stars": 0,
+      "updated_at": "2025-10-06T07:24:44Z",
+      "html_url": "https://github.com/osvacapir/angolan-localization-api"
+    },
+    {
+      "full_name": "osvacapir/SenhaFortePro",
+      "name": "SenhaFortePro",
+      "owner": "osvacapir",
+      "description": null,
+      "private": false,
+      "language": "TypeScript",
+      "stars": 0,
+      "updated_at": "2025-10-02T23:07:29Z",
+      "html_url": "https://github.com/osvacapir/SenhaFortePro"
+    },
+    {
+      "full_name": "osvacapir/python-mini-proj-dir",
+      "name": "python-mini-proj-dir",
+      "owner": "osvacapir",
+      "description": null,
+      "private": false,
+      "language": "Python",
+      "stars": 0,
+      "updated_at": "2025-10-02T14:27:20Z",
+      "html_url": "https://github.com/osvacapir/python-mini-proj-dir"
+    },
+    {
+      "full_name": "osvacapir/vosikola-full",
+      "name": "vosikola-full",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "TypeScript",
+      "stars": 0,
+      "updated_at": "2025-09-28T21:38:42Z",
+      "html_url": "https://github.com/osvacapir/vosikola-full"
+    },
+    {
+      "full_name": "osvacapir/vosikola-multitenancy",
+      "name": "vosikola-multitenancy",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "TypeScript",
+      "stars": 0,
+      "updated_at": "2025-09-11T11:35:36Z",
+      "html_url": "https://github.com/osvacapir/vosikola-multitenancy"
+    },
+    {
+      "full_name": "Zeta-Byte/vosikola-gen",
+      "name": "vosikola-gen",
+      "owner": "Zeta-Byte",
+      "description": null,
+      "private": true,
+      "language": "Blade",
+      "stars": 0,
+      "updated_at": "2025-09-01T10:56:26Z",
+      "html_url": "https://github.com/Zeta-Byte/vosikola-gen"
+    },
+    {
+      "full_name": "osvacapir/vosikola-med",
+      "name": "vosikola-med",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "Blade",
+      "stars": 0,
+      "updated_at": "2025-08-31T23:10:20Z",
+      "html_url": "https://github.com/osvacapir/vosikola-med"
+    },
+    {
+      "full_name": "Zeta-Byte/fluxo-caixa-sistema",
+      "name": "fluxo-caixa-sistema",
+      "owner": "Zeta-Byte",
+      "description": null,
+      "private": true,
+      "language": "Java",
+      "stars": 0,
+      "updated_at": "2025-08-26T15:07:55Z",
+      "html_url": "https://github.com/Zeta-Byte/fluxo-caixa-sistema"
+    },
+    {
+      "full_name": "Zeta-Byte/newMed",
+      "name": "newMed",
+      "owner": "Zeta-Byte",
+      "description": "Sistema de Gestão Não Universitário",
+      "private": true,
+      "language": "Blade",
+      "stars": 0,
+      "updated_at": "2025-08-19T13:37:26Z",
+      "html_url": "https://github.com/Zeta-Byte/newMed"
+    },
+    {
+      "full_name": "osvacapir/newMed",
+      "name": "newMed",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "Blade",
+      "stars": 0,
+      "updated_at": "2025-08-14T10:29:13Z",
+      "html_url": "https://github.com/osvacapir/newMed"
+    },
+    {
+      "full_name": "Zeta-Byte/med",
+      "name": "med",
+      "owner": "Zeta-Byte",
+      "description": null,
+      "private": true,
+      "language": null,
+      "stars": 0,
+      "updated_at": "2025-08-14T10:03:23Z",
+      "html_url": "https://github.com/Zeta-Byte/med"
+    },
+    {
+      "full_name": "osvacapir/omilu",
+      "name": "omilu",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "Java",
+      "stars": 0,
+      "updated_at": "2025-08-10T10:49:24Z",
+      "html_url": "https://github.com/osvacapir/omilu"
+    },
+    {
+      "full_name": "osvacapir/Zeta--Byte-vosikola-sup",
+      "name": "Zeta--Byte-vosikola-sup",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "Blade",
+      "stars": 0,
+      "updated_at": "2025-07-10T08:47:35Z",
+      "html_url": "https://github.com/osvacapir/Zeta--Byte-vosikola-sup"
+    },
+    {
+      "full_name": "osvacapir/https---github.com-Zeta-Byte-vosikola-sup",
+      "name": "https---github.com-Zeta-Byte-vosikola-sup",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "Blade",
+      "stars": 0,
+      "updated_at": "2025-07-10T08:36:51Z",
+      "html_url": "https://github.com/osvacapir/https---github.com-Zeta-Byte-vosikola-sup"
+    },
+    {
+      "full_name": "osvacapir/https---github.com-Zeta-Byte-vosikola-med",
+      "name": "https---github.com-Zeta-Byte-vosikola-med",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "Blade",
+      "stars": 0,
+      "updated_at": "2025-07-08T16:07:16Z",
+      "html_url": "https://github.com/osvacapir/https---github.com-Zeta-Byte-vosikola-med"
+    },
+    {
+      "full_name": "osvacapir/https---github.com-osvacapir-vosikola-med",
+      "name": "https---github.com-osvacapir-vosikola-med",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "Blade",
+      "stars": 0,
+      "updated_at": "2025-07-07T15:21:22Z",
+      "html_url": "https://github.com/osvacapir/https---github.com-osvacapir-vosikola-med"
+    },
+    {
+      "full_name": "osvacapir/university_sys",
+      "name": "university_sys",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": "Blade",
+      "stars": 0,
+      "updated_at": "2024-07-30T23:59:24Z",
+      "html_url": "https://github.com/osvacapir/university_sys"
+    },
+    {
+      "full_name": "Zeta-Byte/vosikola-isprl",
+      "name": "vosikola-isprl",
+      "owner": "Zeta-Byte",
+      "description": "Sistema do Instituto Cunene",
+      "private": true,
+      "language": null,
+      "stars": 0,
+      "updated_at": "2024-04-10T21:11:05Z",
+      "html_url": "https://github.com/Zeta-Byte/vosikola-isprl"
+    },
+    {
+      "full_name": "osvacapir/vosikola-publicada",
+      "name": "vosikola-publicada",
+      "owner": "osvacapir",
+      "description": "Sistema vosikola no servidor web",
+      "private": true,
+      "language": "Blade",
+      "stars": 0,
+      "updated_at": "2024-01-06T13:32:14Z",
+      "html_url": "https://github.com/osvacapir/vosikola-publicada"
+    },
+    {
+      "full_name": "Zeta-Byte/nossaconsultora",
+      "name": "nossaconsultora",
+      "owner": "Zeta-Byte",
+      "description": "Correctora de Imóveis",
+      "private": true,
+      "language": "HTML",
+      "stars": 0,
+      "updated_at": "2024-01-03T11:27:30Z",
+      "html_url": "https://github.com/Zeta-Byte/nossaconsultora"
+    },
+    {
+      "full_name": "osvacapir/SistemaJA",
+      "name": "SistemaJA",
+      "owner": "osvacapir",
+      "description": "Sistema de Gestão de Clubes e Eventos",
+      "private": true,
+      "language": "Blade",
+      "stars": 0,
+      "updated_at": "2023-08-01T20:23:08Z",
+      "html_url": "https://github.com/osvacapir/SistemaJA"
+    },
+    {
+      "full_name": "osvacapir/declaracoes.com",
+      "name": "declaracoes.com",
+      "owner": "osvacapir",
+      "description": "Sistema de Declarações",
+      "private": true,
+      "language": "Blade",
+      "stars": 0,
+      "updated_at": "2023-06-22T11:20:30Z",
+      "html_url": "https://github.com/osvacapir/declaracoes.com"
+    },
+    {
+      "full_name": "osvacapir/acesso_alunos",
+      "name": "acesso_alunos",
+      "owner": "osvacapir",
+      "description": "Página para os alunos visualizarem informações académicas",
+      "private": true,
+      "language": null,
+      "stars": 0,
+      "updated_at": "2023-05-28T17:46:42Z",
+      "html_url": "https://github.com/osvacapir/acesso_alunos"
+    },
+    {
+      "full_name": "Zeta-Byte/eventos.com",
+      "name": "eventos.com",
+      "owner": "Zeta-Byte",
+      "description": "Sistema de Gestão de Eventos",
+      "private": true,
+      "language": "PHP",
+      "stars": 1,
+      "updated_at": "2023-05-20T21:48:50Z",
+      "html_url": "https://github.com/Zeta-Byte/eventos.com"
+    },
+    {
+      "full_name": "Zeta-Byte/enbi",
+      "name": "enbi",
+      "owner": "Zeta-Byte",
+      "description": "Empresa Nacional de Bilhetética Interads",
+      "private": true,
+      "language": "JavaScript",
+      "stars": 0,
+      "updated_at": "2023-01-10T15:10:52Z",
+      "html_url": "https://github.com/Zeta-Byte/enbi"
+    },
+    {
+      "full_name": "Zeta-Byte/embi",
+      "name": "embi",
+      "owner": "Zeta-Byte",
+      "description": "Empresa Nacional de Bilhética Integrada",
+      "private": true,
+      "language": null,
+      "stars": 0,
+      "updated_at": "2023-01-10T14:06:16Z",
+      "html_url": "https://github.com/Zeta-Byte/embi"
+    },
+    {
+      "full_name": "Zeta-Byte/nova.mja.com",
+      "name": "nova.mja.com",
+      "owner": "Zeta-Byte",
+      "description": "Ministério Jovem - Gestão de Clubes",
+      "private": true,
+      "language": "Blade",
+      "stars": 0,
+      "updated_at": "2022-11-24T16:27:04Z",
+      "html_url": "https://github.com/Zeta-Byte/nova.mja.com"
+    },
+    {
+      "full_name": "Zeta-Byte/vosikola-propinas",
+      "name": "vosikola-propinas",
+      "owner": "Zeta-Byte",
+      "description": "Sistema de Gestão de Propinas para Colégio",
+      "private": true,
+      "language": null,
+      "stars": 0,
+      "updated_at": "2022-06-16T09:18:30Z",
+      "html_url": "https://github.com/Zeta-Byte/vosikola-propinas"
+    },
+    {
+      "full_name": "osvacapir/mja",
+      "name": "mja",
+      "owner": "osvacapir",
+      "description": "Gestão de Clubes",
+      "private": true,
+      "language": "CSS",
+      "stars": 0,
+      "updated_at": "2022-05-14T15:42:50Z",
+      "html_url": "https://github.com/osvacapir/mja"
+    },
+    {
+      "full_name": "Zeta-Byte/kesongo-Api",
+      "name": "kesongo-Api",
+      "owner": "Zeta-Byte",
+      "description": null,
+      "private": true,
+      "language": "CSS",
+      "stars": 0,
+      "updated_at": "2022-04-07T09:48:32Z",
+      "html_url": "https://github.com/Zeta-Byte/kesongo-Api"
+    },
+    {
+      "full_name": "osvacapir/vosikola_propias",
+      "name": "vosikola_propias",
+      "owner": "osvacapir",
+      "description": "Sistema de Gestão Escolar Desktop",
+      "private": true,
+      "language": null,
+      "stars": 0,
+      "updated_at": "2022-03-04T08:13:33Z",
+      "html_url": "https://github.com/osvacapir/vosikola_propias"
+    },
+    {
+      "full_name": "Zeta-Byte/mja",
+      "name": "mja",
+      "owner": "Zeta-Byte",
+      "description": null,
+      "private": true,
+      "language": null,
+      "stars": 0,
+      "updated_at": "2021-09-08T17:14:08Z",
+      "html_url": "https://github.com/Zeta-Byte/mja"
+    },
+    {
+      "full_name": "Zeta-Byte/kapendandjila",
+      "name": "kapendandjila",
+      "owner": "Zeta-Byte",
+      "description": "Projecto dos Desbravadoes",
+      "private": true,
+      "language": null,
+      "stars": 0,
+      "updated_at": "2021-07-14T14:23:49Z",
+      "html_url": "https://github.com/Zeta-Byte/kapendandjila"
+    },
+    {
+      "full_name": "osvacapir/vosikola",
+      "name": "vosikola",
+      "owner": "osvacapir",
+      "description": null,
+      "private": true,
+      "language": null,
+      "stars": 0,
+      "updated_at": "2020-06-09T13:25:16Z",
+      "html_url": "https://github.com/osvacapir/vosikola"
+    }
+  ]
+}
